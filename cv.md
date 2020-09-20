@@ -28,7 +28,7 @@ Contacts
 - LESS, SASS.
 - JavaScript, Jquery.
 - Good web applications making.
-- Python, some kind of DataScience knowledge.
+- Python, some kind of DataScience knowledge
 - English on almost advanced level, B2-C1
 
 Experience
